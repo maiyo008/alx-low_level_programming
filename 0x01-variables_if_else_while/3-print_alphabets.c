@@ -3,7 +3,7 @@
  * Main - Entry point
  * Print alphabets in lowercase then uppercase
  * printf is not allowed
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
