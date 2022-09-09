@@ -7,3 +7,4 @@ Task no		|Task		|
 1. Task 2	|Print all the alphabet in lowercase|
 1. Task 3	|Print all the alphabets in lowercase and then in uppercase|
 1. Task 4	|Print all the alphabets in lowercase excluding e and q|
+1. Task 5	|Print all the single digits of base 10 numbers|
