@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- *
+ * Find the last digit of an integer and check if > or < than 5
  * Return: Always 0 (success)
  */
 int main(void)
@@ -14,7 +14,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	
-	last_num = n % 10;
+	last_num = n%10;
 
 	if (last_num > 5)
 		printf("Last digit of %d is %d and is greater than 5\n", n, last_num);
