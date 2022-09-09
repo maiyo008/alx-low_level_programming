@@ -4,6 +4,7 @@
  * Print alphabets in lowercase then uppercase
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char ch_lowwer = 'a';
