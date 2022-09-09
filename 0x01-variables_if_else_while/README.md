@@ -11,4 +11,4 @@ Task no		|Task		|
 1. Task 6	|Print all the single digits of base 10 numbers using putchar|
 1. Task 7	|Print all the alphabets in reverse|
 1. Task 8	|Print all the hexadecimal numbers|
-
+1. Task 9	|Print all the possible combinations of single characters separated by ,|
