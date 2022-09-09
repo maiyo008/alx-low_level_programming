@@ -9,3 +9,4 @@ Task no		|Task		|
 1. Task 4	|Print all the alphabets in lowercase excluding e and q|
 1. Task 5	|Print all the single digits of base 10 numbers|
 1. Task 6	|Print all the single digits of base 10 numbers using putchar|
+1. Task 7	|Print all the alphabets in reverse|
