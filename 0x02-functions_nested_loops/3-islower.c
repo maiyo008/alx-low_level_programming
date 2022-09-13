@@ -3,11 +3,13 @@
 /**
  * _islower - Entry to the function
  * check for lower or upper cases
+ * Function takes an argument c 
  * Return: 0(Success)
  */
 int _islower(int c)
 {
 	int a;
+
 	if ((c >= 97) && (c <= 122))
 		a = 1;
 	else
