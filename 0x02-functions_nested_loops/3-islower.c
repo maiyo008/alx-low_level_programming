@@ -2,9 +2,9 @@
 
 /**
  * _islower - Entry to the function
- * check for lower or upper cases
- * Function takes an argument c 
- * Return: 0(Success)
+ * @c: An input ASCII value or character
+ * Description: function uses _putchar function to print 
+ * Return: 1 if it is lowercase 0 if it is otherwise
  */
 int _islower(int c)
 {
