@@ -11,4 +11,5 @@
 |Task 6|Print the absolute values of integers|
 |Task 7|Print the last digit of an integer|
 |Task 8|Print all the minutes in a day|
+|Task 9|Print the 9 times table, starting with 0|
 
