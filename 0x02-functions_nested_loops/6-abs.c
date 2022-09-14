@@ -4,8 +4,8 @@
  * _abs - Entry point
  * @n: An input number
  * Description:Return the absolute value of an integer
- * Return:Return value of n 
- */
+ * Return:Return n
+ */ 
 int _abs(int n)
 {
 	if (n >= 0)
