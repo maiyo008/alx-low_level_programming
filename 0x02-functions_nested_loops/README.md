@@ -13,5 +13,6 @@
 |Task 8|Print all the minutes in a day|
 |Task 9|Print the 9 times table, starting with 0|
 |Task 10|Add two numbers|
+|Task 11|Print natural numbers from n to 98|
 
 
