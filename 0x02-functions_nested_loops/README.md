@@ -8,4 +8,5 @@
 |Task 3|Check if alphabets are lowercase or otherwise
 |Task 4|Check if alphabets are lowercase/uppercase or otherwise|
 |Task 5|Print the sign of the integers|
+|Task 6|Print the absolute values of integers|
 
