@@ -12,4 +12,6 @@
 |Task 7|Print the last digit of an integer|
 |Task 8|Print all the minutes in a day|
 |Task 9|Print the 9 times table, starting with 0|
+|Task 10|Add two numbers|
+
 
