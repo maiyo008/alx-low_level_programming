@@ -10,4 +10,5 @@
 |Task 5|Print the sign of the integers|
 |Task 6|Print the absolute values of integers|
 |Task 7|Print the last digit of an integer|
+|Task 8|Print all the minutes in a day|
 
