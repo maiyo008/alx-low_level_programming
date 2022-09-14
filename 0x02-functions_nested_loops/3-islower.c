@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _islower - Entry to the function
- * @c: An input ASCII value or character
- * Description:function uses _putchar function to print 
- * Return: 1 if it is lowercase 0 if it is otherwise
+ * _islower - Entry point
+ * @c: An integer input
+ * Description:check for lowercase character
+ * Return:Return 1 if lowercase and 0 if otherwise
  */
 int _islower(int c)
 {
