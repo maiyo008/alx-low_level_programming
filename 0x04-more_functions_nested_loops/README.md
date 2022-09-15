@@ -8,4 +8,5 @@
 |Task 3 |Write a function that prints the numbers from 0-9|
 |Task 4	|Write a function that prints the numbers, from 0-9, excluding 2 and 4|
 |Task 5	|Write a function that prints 10 times the numbers 1 - 14|
+|Task 6	|Write a function that draws a straight line in the terminal|
 
