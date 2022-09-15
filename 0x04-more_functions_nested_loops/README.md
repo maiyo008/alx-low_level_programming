@@ -11,4 +11,5 @@
 |Task 6	|Write a function that draws a straight line in the terminal|
 |Task 7 |Write a function that draws a diagonal line on the terminal|
 |Task 8 |Write a function that prints a square, followed by a new line|
+|Task 9 |Write a program that prints 1 - 100 but for multiples of 3 print fizz, multiples of 5 print buzz and if both print fizzbuzz|
 
