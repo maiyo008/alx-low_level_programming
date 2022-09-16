@@ -13,4 +13,5 @@
 |Task 8 |Write a function that prints a square, followed by a new line|
 |Task 9 |Write a program that prints 1 - 100 but for multiples of 3 print fizz, multiples of 5 print buzz and if both print fizzbuzz|
 |Task 10|Write a function that prints a triangle, followed by a new line|
+|Task 100|Write a program that finds and prints the largest prime factor of the number 612852475143|
 
