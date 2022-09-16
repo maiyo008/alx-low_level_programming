@@ -1,4 +1,4 @@
-#include "main.hu"
+#include "main.h"
 
 /**
  * main - tests function that prints if 
