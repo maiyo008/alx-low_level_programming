@@ -1,10 +1,10 @@
 #include "main.hu"
 
 /**
- * main - tests function that prints if an integer is positive or negative
+ * main - tests function that prints if 
+ * an integer is positive or negative
  * Return: 0
  */
-
 int main(void)
 {
 	int i;
