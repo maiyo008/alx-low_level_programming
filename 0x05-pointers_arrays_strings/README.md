@@ -7,4 +7,5 @@
 |Task 2 |Write a function that returns the length of a string|
 |Task 3 |Write a function that prints a string, followed by a new line, to stdout|
 |Task 4 |Write a function that prints a string, in reverse, followed by a newline|
+|Task 5 |Write a function that reverses a string|
 
