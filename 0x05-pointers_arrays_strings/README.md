@@ -13,4 +13,5 @@
 |Task 8 |Write a function that prints n elements of an array of integers, followed by a newline|
 |Task 9 |Write a function that copies the string to by scr, including the terminating null byte (\0), to the buffer pointed to by dest|
 |Task 10|Write a function that converts a string to an integer|
+|Task 11|Create a program that generates random valid passwords for the program 101-crackme|
 
