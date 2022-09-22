@@ -23,11 +23,11 @@ int _strcmp(char *s1, char *s2)
 		s2++;
 	}
 	if (s1len < s2len)
-		val = -15;
+		val = s1len - s2len;
 	else if (s1len == s2len)
 		val = 0;
 	else
-		val = 15;
+		val = s1len - s2len;
 	return (val);
 }
 
