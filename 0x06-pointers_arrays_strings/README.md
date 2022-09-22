@@ -12,4 +12,5 @@
 |Task 7  |Write a function that encodes a string into 1337|
 |Task 8  |Write a function that encodes a string using rot13|
 |Task 9  |Write a function that prints an integer|
+|Task 10 |Write a program to add one line of code so that the programs prints a[2] = 98|
 
