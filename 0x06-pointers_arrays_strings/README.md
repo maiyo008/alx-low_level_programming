@@ -8,4 +8,5 @@
 |Task 3  |Write a function that compares two strings|
 |Task 4  |Write a function that reverses the content of an array of integers|
 |Task 5  |Write a function that changes all lowercase letters of a string to uppercase|
+|Task 6  |Write a function that capitalizes all words of a string.|
 
