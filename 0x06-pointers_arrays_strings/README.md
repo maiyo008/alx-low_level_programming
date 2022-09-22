@@ -4,4 +4,5 @@
 |--------|------|
 |Task 0	 |Write a function that concantenates two strings. FYI: similar to strcat|
 |Task 1  |Write a function that concantenates two strings. FYI: similar to strncat|
+|Task 2  |Write a function that copies a string|
 
