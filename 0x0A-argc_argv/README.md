@@ -6,3 +6,5 @@
 |Task 1  |Write a program that prints the number of arguments passed onto it|
 |Task 2  |Write a program that prints all the arguments it receives|
 |Task 3  |Write a program that multiplies two numbers|
+|Task 4  |Write a program that adds two positive numbers|
+
