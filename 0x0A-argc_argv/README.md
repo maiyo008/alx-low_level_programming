@@ -7,4 +7,5 @@
 |Task 2  |Write a program that prints all the arguments it receives|
 |Task 3  |Write a program that multiplies two numbers|
 |Task 4  |Write a program that adds two positive numbers|
+|Task 5  |Write a program that prints the minimum number of coins to make change for an amount of money|
 
