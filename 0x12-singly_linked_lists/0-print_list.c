@@ -10,17 +10,17 @@
 size_t print_list(const list_t *h)
 {
 	size_t count = 0;
-	const list_t *ptr = NULL;
 
 	if (h == NULL)
 		printf("This is an empty list\n");
-	ptr = h;
-	while (ptr != NULL)
+	while (h != NULL)
 	{
-		if (ptr->str == NULL)
-			printf("[0] (nil)\n");
-		printf("[%d] %s\n", ptr->len, ptr->str);
-		ptr = ptr->next;
+		printf("[%u] ", h->len);
+		if (h->str == NULL)
+			printf("(nil)\n");
+		else
+			printf("%s\n", h->str);
+		h = h->next;
 		count++;
 	}
 	return (count);
