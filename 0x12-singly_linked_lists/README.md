@@ -8,4 +8,5 @@
 |Task 3 |Write a function that adds a new node at the end of a list|
 |Task 4 |Write a function that frees a list|
 |Task 5 |Write a function that executes before the main function|
+|Task 6 |Write a program in assembly that prints a string followed by a newline|
 
