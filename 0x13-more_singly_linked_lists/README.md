@@ -9,4 +9,5 @@
 |Task 4   |Write a function that frees a list|
 |Task 5   |Write a function that frees a list|
 |Task 6   |Write a function that deletes the head node of a linked list, and returns the head nodes data (n)|
+|Task 7   |Write a function that returns nth node in a linked list|
 
