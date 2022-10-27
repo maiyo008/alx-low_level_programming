@@ -11,4 +11,5 @@
 |Task 6   |Write a function that deletes the head node of a linked list, and returns the head nodes data (n)|
 |Task 7   |Write a function that returns nth node in a linked list|
 |Task 8   |Write a function that returns the sum of all the data (n) of a linked list|
+|Task 9   |Write a function that inserts a new node at a given position|
 
