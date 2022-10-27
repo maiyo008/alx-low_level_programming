@@ -12,4 +12,5 @@
 |Task 7   |Write a function that returns nth node in a linked list|
 |Task 8   |Write a function that returns the sum of all the data (n) of a linked list|
 |Task 9   |Write a function that inserts a new node at a given position|
+|Task 10  |Write a function that deletes a node at index nth of a linked list|
 
