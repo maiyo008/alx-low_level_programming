@@ -8,4 +8,5 @@
 |Task 3   |Write a function that adds a new node at the end of a list|
 |Task 4   |Write a function that frees a list|
 |Task 5   |Write a function that frees a list|
+|Task 6   |Write a function that deletes the head node of a linked list, and returns the head nodes data (n)|
 
