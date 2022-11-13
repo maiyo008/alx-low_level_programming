@@ -5,5 +5,6 @@ A process is an instance of an executing program, that has a unique process ID. 
 |Tasks no |Tasks |
 |---------|------|
 |Tasks 0  |Write a program that prints the parent process. It is possible to get the PID of the parent process by using the getppid system call|
-|Task 1   |Write a program that prints all the arguments without using argc. Compiled using only gcc|
+|Task 1   |Write a program that prints all the arguments without using argc. Compiled using only gcc||Task 2   |Write a program that prints $, wait for the user to enter a command, prints it on the next line|
+
 
