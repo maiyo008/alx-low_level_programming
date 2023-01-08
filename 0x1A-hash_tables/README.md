@@ -20,7 +20,6 @@
 ## Tasks
 ---
 ### Task 0
----
 * Write a function that creates a hash table:
 	* Prototype: `hash_table_t *hash_table_create(unsigned long int size);`
 		Where `size` is the size of the array
@@ -41,3 +40,13 @@
 	* Returns the index at which the key/value pair should be stored in the array
 	* You will have  to use this hash functions  for all of the next tasks
 
+### Task 3
+* Write a function that adds an element to the hash table
+	* Prototype: `int hash_table_set(hash_table_t *ht, const char *key, const char *value);`
+		Where `ht` is the hash table you want to add or update the key/value to
+		`key` is the key. `key` cannot be empty string
+		and `value` is the value associated with the key. `value` must be duplicated. `value` can be an empty string
+	* Returns `1` if it succeeded, `0` otherwise
+	* In case of collision, add the new node at the beginning of the list
+
+ 
