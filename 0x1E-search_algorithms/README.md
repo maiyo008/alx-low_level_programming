@@ -159,3 +159,19 @@ Found 999 at index: -1
 }
 ```
 -----
+### Task 7. Jump search
+<Details>
+Write a function that searches for a value in a sorted array of integers using the Jump search algorithm
+
+* Prototype : int jump_search(int *array, size_t size, int value);
+* Where array is a pointer to the first element of the array to search in
+* size is the number of elements in array
+* And value is the value to search for
+* Your function must return the first index where value is located
+* You can assume that array will be sorted in ascending order
+* If value is not present in array or if array is NULL, your function must return -1
+* You have to use the square root of the size of the array as the jump step.
+* You can use the sqrt() function included in <math.h> (don’t forget to compile with -lm)
+* Every time you compare a value in the array to the value you are searching for, you have to print this value (see example)
+</Details>
+

@@ -9,50 +9,31 @@
  * @size: number of elements in the array
  * @value: value to search for
  * Return: first index where the value is stored, otherwise,
- * if value is not present in array, or array is null return -1
+ * if value is not present in array or array is null return (-1)
  */
 int jump_search(int *array, size_t size, int value)
 {
-	size_t step = sqrt(size);
 	size_t l = 0;
+	size_t r = 0;
+	size_t step = sqrt(size);
 
 	if (array == NULL)
 		return (-1);
-	printf("Value checked for array[%d] = [%d]\n", (int)l, array[l]);
-	while (array[min(step, size)] < value)
+	while (r < size && array[r] < value)
 	{
-		l = step;
-		step += sqrt(size);
-		if (l >= size)
-			return (-1);
-		printf("Value checked for array[%d] = [%d]\n", (int)l, array[l]);
+		l = r;
+		r += step;
+		printf("Value checked array[%lu] = [%d]\n", l, array[l]);
 	}
-	printf("Value found between indexes [%d] and [%d]\n", (int)l, (int)step);
-	while (array[l] < value)
+	printf("Value found between indexes [%lu] and [%lu]\n", l, r);
+	while (l <= r)
 	{
-		if (l == min(step, size))
-			return (-1);
-		printf("Value checked for array[%d] = [%d]\n", (int)l, array[l]);
+		printf("Value checked array[%lu] = [%d]\n", l, array[l]);
+		if (array[l] == value)
+			return (l);
+		if (r > size)
+			break;
 		l++;
 	}
-	if (array[l] == value)
-	{
-		printf("Value checked for array[%d] = [%d]\n", (int)l, array[l]);
-		return ((int)l);
-	}
 	return (-1);
-}
-
-/**
- * min - function to compare two elements
- * @a: first element
- * @b: second element
- * Return: minimum value element
- */
-size_t min(size_t a, size_t b)
-{
-	if (b > a)
-		return (a);
-	else
-		return (b);
 }
